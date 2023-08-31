@@ -1,0 +1,1 @@
+export {default as ArrivingScreenStyle} from './ArrivingScreenStyle';

@@ -1,0 +1,1 @@
+export const DATA_DETAILES_TYPE = "DATA_DETAILES_TYPE";
