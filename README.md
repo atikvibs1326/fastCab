@@ -60,7 +60,8 @@ Now that you have successfully run the app, let's modify it.
 You've successfully run and modified your React Native App. :partying_face:
 
 ##Screenshots
-![Login](https://github.com/atikvibs1326/fastCab/assets/64660852/51883848-4722-483f-91cc-761e17d96956)
+![Login](https://github.com/atikvibs1326/fastCab/assets/64660852/51883848-4722-483f-91cc-761e17d96956)  ![Signup](https://github.com/atikvibs1326/fastCab/assets/64660852/b5244be2-e107-465c-a50b-64008cc871b6)
+
 
 
 ### Now what?
