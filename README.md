@@ -66,13 +66,13 @@ You've successfully run and modified your React Native App. :partying_face:
  <b>Login & Singup</b>
 <div style="display: inline-block;">
    <br>
-    <img src="ScreenShots/logsin.jpg" width=200>
+    <img src="ScreenShots/logsin.jpg" width=150>
     <img src="ScreenShots/Whitespacer.jpg" width="20">
-    <img src="ScreenShots/Loginsucc.jpg" width=200>
+    <img src="ScreenShots/Loginsucc.jpg" width=150>
    <img src="ScreenShots/Whitespacer.jpg" width="20">
-    <img src="ScreenShots/signsup.jpg" width=200>
+    <img src="ScreenShots/signsup.jpg" width=150>
    <img src="ScreenShots/Whitespacer.jpg" width="20">
-    <img src="ScreenShots/Singupsuccessfull.jpg" width=200>
+    <img src="ScreenShots/Singupsuccessfull.jpg" width=150>
 </div>
 <b>HomePage & Menu</b>
 <div style="display: inline-block;">
