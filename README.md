@@ -67,22 +67,22 @@ You've successfully run and modified your React Native App. :partying_face:
 <div style="display: inline-block;">
    <br>
     <img src="ScreenShots/logsin.jpg" width=200>
-    <img src="ScreenShots/Whitespacer.jpg" width="25">
+    <img src="ScreenShots/Whitespacer.jpg" width="20">
     <img src="ScreenShots/Loginsucc.jpg" width=200>
-   <img src="ScreenShots/Whitespacer.jpg" width="25">
+   <img src="ScreenShots/Whitespacer.jpg" width="20">
     <img src="ScreenShots/signsup.jpg" width=200>
-   <img src="ScreenShots/Whitespacer.jpg" width="25">
+   <img src="ScreenShots/Whitespacer.jpg" width="20">
     <img src="ScreenShots/Singupsuccessfull.jpg" width=200>
 </div>
 <b>HomePage & Menu</b>
 <div style="display: inline-block;">
    <br>
     <img src="ScreenShots/Menu.jpg" width=200>
-    <img src="ScreenShots/Whitespacer.jpg" width="25">
+    <img src="ScreenShots/Whitespacer.jpg" width="15">
     <img src="ScreenShots/Home.jpg" width=200>
-   <img src="ScreenShots/Whitespacer.jpg" width="25">
+   <img src="ScreenShots/Whitespacer.jpg" width="15">
     <img src="ScreenShots/whereTo.jpg" width=200>
-   <img src="ScreenShots/Whitespacer.jpg" width="25">
+   <img src="ScreenShots/Whitespacer.jpg" width="15">
     <img src="ScreenShots/SearchingDriver.jpg" width=200>
 </div>
 <b>Book & Pay</b>
