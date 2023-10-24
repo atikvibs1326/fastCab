@@ -59,6 +59,10 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App. :partying_face:
 
+##Screenshots
+![Login](https://github.com/atikvibs1326/fastCab/assets/64660852/51883848-4722-483f-91cc-761e17d96956)
+
+
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
