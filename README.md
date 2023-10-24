@@ -78,9 +78,9 @@ You've successfully run and modified your React Native App. :partying_face:
 <div style="display: inline-block;">
    <br>
     <img src="ScreenShots/Menu.jpg" width=200>
-    <img src="ScreenShots/Whitespacer.jpg" width="15">
+    <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/Home.jpg" width=200>
-   <img src="ScreenShots/Whitespacer.jpg" width="15">
+   <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/whereTo.jpg" width=200>
 </div>
 <b>Book & Pay</b>
