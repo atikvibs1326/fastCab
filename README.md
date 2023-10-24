@@ -92,7 +92,7 @@ You've successfully run and modified your React Native App. :partying_face:
     <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/succpay.jpg" width=200>
 </div>
-<b>Contact & FAQs</b>
+<b>Contact </b>
 <div style="display: inline-block;">
    <br>
    <img src="ScreenShots/Arriving.jpg" width=200>
@@ -100,6 +100,16 @@ You've successfully run and modified your React Native App. :partying_face:
     <img src="ScreenShots/Chat.jpg" width=200>
    <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/Call.jpg" width=200>
+   
+</div>
+<b>Rating ,FAQs & Settings</b>
+<div style="display: inline-block;">
+   <br>
+   <img src="ScreenShots/Rating.jpg" width=200>
+   <img src="ScreenShots/Whitespacer.jpg" width="50">
+    <img src="ScreenShots/FAQs.jpg" width=200>
+   <img src="ScreenShots/Whitespacer.jpg" width="50">
+    <img src="ScreenShots/Settings.jpg" width=200>
    
 </div>
 
