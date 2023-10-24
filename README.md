@@ -87,19 +87,18 @@ You've successfully run and modified your React Native App. :partying_face:
 <div style="display: inline-block;">
    <br>
     <img src="ScreenShots/SearchingDriver.jpg" width=200>
+    <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/Pay.jpg" width=200>
-    <img src="ScreenShots/Whitespacer.jpg" width="25">
+    <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/succpay.jpg" width=200>
-   <img src="ScreenShots/Whitespacer.jpg" width="25">
-    <img src="ScreenShots/Arriving.jpg" width=200>
 </div>
 <b>Contact & FAQs</b>
 <div style="display: inline-block;">
    <br>
     <img src="ScreenShots/Chat.jpg" width=200>
-   <img src="ScreenShots/Whitespacer.jpg" width="25">
+   <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/Call.jpg" width=200>
-    <img src="ScreenShots/Whitespacer.jpg" width="25">
+    <img src="ScreenShots/Whitespacer.jpg" width="50">
     <img src="ScreenShots/Rating.jpg" width=200>
 </div>
 
